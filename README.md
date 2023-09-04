@@ -1,6 +1,6 @@
 # CleanArchMvc
 
-ste projeto define as entidades principais do domínio e a lógica de negócios para gerenciar produtos dentro da aplicação.
+Esse projeto e uma aplicacao que lista produtos e faz um CRUD desenvolvido no curso na Udemy 
 
 ## 🚀 Começando
 

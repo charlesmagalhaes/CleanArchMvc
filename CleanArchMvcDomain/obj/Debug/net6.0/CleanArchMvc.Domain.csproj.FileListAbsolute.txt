@@ -1,0 +1,12 @@
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\bin\Debug\net6.0\CleanArchMvc.Domain.deps.json
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\CleanArchMvc.Domain.dll
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\refint\CleanArchMvc.Domain.dll
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Users\charles.magalhaes\source\repos\CleanArchMvc\CleanArchMvcDomain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll

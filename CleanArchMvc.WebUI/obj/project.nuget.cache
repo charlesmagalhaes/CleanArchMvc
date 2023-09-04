@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3FblDjxeMafD9oqyXxbWkKuHRsrHAXBheND6vOr/gJnPjElFw7L25Lo38JJCAnlQRC6YJ4jkYqk7T2yWyJRGuA==",
+  "dgSpecHash": "R35Txwkx0RqZQZPROgrDoJrJedpoVkfH8VU+nAlXF+Ykng9mhb2AG45TJd6ae650v3g1slMotTVPsW0rcVQaSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\charles.magalhaes\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\charles.magalhaes\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\charles.magalhaes\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\charles.magalhaes\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\charles.magalhaes\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\charles.magalhaes\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\charles.magalhaes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\charles.magalhaes\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
